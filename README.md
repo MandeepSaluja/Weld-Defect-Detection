@@ -34,3 +34,11 @@ Testing and Evaluation: Evaluate the system's performance using test datasets an
 
 ![Screenshot 2023-06-11 102100](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/aa01564d-cd2f-46ae-b0f1-44e0e4939256)  (Source: Web)
 
+
+
+
+
+
+![Screenshot 2023-06-11 111117](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/de27ac3b-0040-4cb8-b77b-66757ebb5888)
+
+
