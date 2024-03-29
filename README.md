@@ -28,3 +28,9 @@ Model Training: Train the deep learning model using the collected dataset, optim
 NDT Integration: Integrate NDT techniques into the system, ensuring seamless communication between the deep learning model and NDT equipment/software for data acquisition and analysis.
 Deployment: Deploy the system, either locally or on a server, ensuring accessibility for users. Implement a user-friendly interface for interacting with the system and visualizing defect detection results.
 Testing and Evaluation: Evaluate the system's performance using test datasets and real-world scenarios, refining the model and NDT integration as necessary to improve accuracy and reliability.
+
+
+
+
+![Screenshot 2023-06-11 102100](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/aa01564d-cd2f-46ae-b0f1-44e0e4939256)  (Source: Web)
+
