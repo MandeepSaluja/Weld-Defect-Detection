@@ -4,6 +4,9 @@ Weld Defect Detection using Deep Learning with NDT Integration
 **Overview:**
 This project focuses on the development of a deep learning-based system for detecting weld defects, integrating Non-Destructive Testing (NDT) techniques. Weld quality is critical in various industries such as manufacturing, construction, and aerospace, where defects can compromise structural integrity and safety. By leveraging deep learning algorithms and NDT methods, this project aims to enhance the efficiency and accuracy of weld defect detection processes.
 
+![Screenshot 2023-05-30 212332](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/ac1f6989-4f5c-4b43-8f1d-ef9d1bf67068)
+
+
 **Key Features:**
 
 Deep Learning Model: Utilizes state-of-the-art deep learning techniques, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs), to analyze images or sensor data for identifying weld defects.
