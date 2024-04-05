@@ -14,6 +14,9 @@ Integration with NDT Techniques: Incorporates NDT methods such as ultrasonic tes
 Real-time Detection: Provides the capability for real-time or near-real-time detection of weld defects, enabling timely corrective actions and preventing potential safety hazards or production delays.
 User Interface: Offers a user-friendly interface for interacting with the system, visualizing detected defects, and accessing relevant diagnostic information.
 
+![Screenshot 2023-06-11 111117](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/de27ac3b-0040-4cb8-b77b-66757ebb5888)
+
+
 
 **Technologies Used:
 **
@@ -36,13 +39,6 @@ Testing and Evaluation: Evaluate the system's performance using test datasets an
 
 
 ![Screenshot 2023-06-11 102100](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/aa01564d-cd2f-46ae-b0f1-44e0e4939256)  (Source: Web)
-
-
-
-
-
-
-![Screenshot 2023-06-11 111117](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/de27ac3b-0040-4cb8-b77b-66757ebb5888)
 
 
 ![Screenshot 2023-05-30 222509](https://github.com/MandeepSaluja/Weld-Defect-Detection/assets/118661410/27cba222-e752-4efa-b075-4aaa3d9bb4ad)
