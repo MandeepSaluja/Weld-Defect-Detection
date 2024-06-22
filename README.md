@@ -9,7 +9,7 @@ This project focuses on the development of a deep learning-based system for dete
 
 **Key Features:**
 
-Deep Learning Model: Utilizes state-of-the-art deep learning techniques, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs), to analyze images or sensor data for identifying weld defects.
+Deep Learning Model: Utilizes state-of-the-art deep learning techniques, such as convolutional neural networks (CNNs) to analyze images for identifying weld defects.
 Integration with NDT Techniques: Incorporates NDT methods such as ultrasonic testing (UT), radiographic testing (RT), magnetic particle testing (MPT), or dye penetrant testing (DPT) to supplement the deep learning model's analysis and improve defect detection accuracy.
 Real-time Detection: Provides the capability for real-time or near-real-time detection of weld defects, enabling timely corrective actions and preventing potential safety hazards or production delays.
 User Interface: Offers a user-friendly interface for interacting with the system, visualizing detected defects, and accessing relevant diagnostic information.
@@ -20,7 +20,7 @@ User Interface: Offers a user-friendly interface for interacting with the system
 
 **Technologies Used:
 **
-Deep Learning Frameworks: TensorFlow, PyTorch, or Keras for building and training deep learning models.
+Deep Learning Frameworks: TensorFlow(Keras) for building and training deep learning models.
 NDT Tools: Various NDT equipment and software tools depending on the specific techniques integrated into the system.
 Python: Programming language used for implementing the deep learning algorithms, integrating NDT functionalities, and developing the user interface.
 OpenCV: Computer vision library used for image processing and manipulation tasks.
@@ -29,7 +29,7 @@ Flask: Web frameworks used for developing the user interface and deploying the s
 
 **Usage:**
 
-Data Collection: Gather labeled datasets comprising images or sensor data of welds with and without defects. Ensure adequate representation of various defect types and severity levels.
+Data Collection: Gathered labeled datasets comprising images data of welds with and without defects. Ensuring adequate representation of various defect types and severity levels.
 Model Training: Train the deep learning model using the collected dataset, optimizing model parameters and hyperparameters to achieve high accuracy and generalization.
 NDT Integration: Integrate NDT techniques into the system, ensuring seamless communication between the deep learning model and NDT equipment/software for data acquisition and analysis.
 Deployment: Deploy the system, either locally or on a server, ensuring accessibility for users. Implement a user-friendly interface for interacting with the system and visualizing defect detection results.
